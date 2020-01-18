@@ -1,5 +1,5 @@
-const WIDTH = 1400;
-const HEIGHT = 900;
+const WIDTH = window.innerWidth;
+const HEIGHT = window.innerHeight;
 const NUMBER_OF_PARTICLES = 50;
 const PARTICLE_SIZE = 3;
 const PARTICLE_CHANGE_SIZE_SPEED  = 0.07;
